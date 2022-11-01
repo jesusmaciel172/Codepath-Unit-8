@@ -22,7 +22,8 @@ Vulnerability #1: Cross Sight Scripting
 
 Description: I used a fake email and added a code to the description part of the contact part. After this I logged and went to the feedback part of the website and it told me XSS was found
 
-<img src="blue-vuln1.gif">
+<![ezgif com-gif-maker](https://user-images.githubusercontent.com/109492858/199141276-11473ef8-8d62-4931-81ca-cb8958527115.gif)
+
 
 
 ## Red
@@ -31,7 +32,8 @@ Vulnerability #1: IDOR
 
 Description: I went to the salesperson part of the website and I noticed the link had some numbers and I changed them to get to other salespersons links, I kept going all the way until I got a code seen in the video
 
-<img src="green-vuln1.gif">
+
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/109492858/199141314-7b76ea7a-edde-4d87-9a82-deacdc2a550c.gif)
 
 
 ## Blue
@@ -40,10 +42,10 @@ Vulnerability #1: Session Hijacking
 
 Description: I went to the home page of the site and on the URL of the website I inputed hack tools and change in order to be able to change the session ID
 
-<img src="red-vuln1.gif">
+![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/109492858/199141333-1e97f1d6-fb5a-4544-b65b-ae515437c0a2.gif)
 
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+In general there was of course some trial and error and parts where I was stuck but luckiluy I looked back to some past assignments and some help of the internet here and there and was able to figure the solutions out.
 
